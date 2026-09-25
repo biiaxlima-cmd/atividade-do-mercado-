@@ -1,0 +1,7 @@
+{
+  "name": "Supermercado Gestor - Estoque e Vendas",
+  "description": "Sistema completo de gestão de supermercados para controle de estoque, vendas em frente de caixa (PDV) e relatórios em dashboard com integração Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
